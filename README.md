@@ -6,15 +6,14 @@
 <!--------------------------------- webforms logo (01) ----------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/image001.png"
-   alt="Bitcoin cs198.1x logo"
+<img src="./images/image001.png"
+   alt="web forms logo"
    width="65%" />
 </p>
 <div align="center">
 <h1>Front-end web developer</h1>
 </div>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer"></a>
-
 
 Web forms — Working with user data
 This module provides a series of articles that will help you master the essentials of web forms. Web forms are a very powerful tool for interacting with users — most commonly they are used for collecting data from users, or allowing them to control a user interface. However, for historical and technical reasons it's not always obvious how to use them to their full potential. In the articles listed below, we'll cover all the essential aspects of Web forms including marking up their HTML structure, styling form controls, validating form data, and submitting data to the server.
@@ -36,6 +35,7 @@ The above text is a good indicator as to why we've put web forms into its own st
 <h3>Introductory guides</h3>
 
 <h3>Your first form</h3>
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 The first article in our series provides your very first experience of creating a web form, including designing a simple form, implementing it using the right HTML elements, adding some very simple styling via CSS, and how data is sent to a server.
 
 <h3>How to structure a web form</h3>
