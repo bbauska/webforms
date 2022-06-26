@@ -82,7 +82,8 @@ User input and controls
 Modern web user input goes beyond simple mouse and keyboard: think of touchscreens for example. This article provides recommendations for managing user input and implementing controls in open web apps, along with FAQs, real-world examples, and links to further information for anyone needing more detailed information on the underlying technologies.
 
 <!------------------------------------------------------------------------------------------------>
-Web forms — Working with user data
+
+<h3>Web forms — Working with user data</h3>
 This module provides a series of articles that will help you master the essentials of web forms. Web forms are a very powerful tool for interacting with users — most commonly they are used for collecting data from users, or allowing them to control a user interface. However, for historical and technical reasons it's not always obvious how to use them to their full potential. In the articles listed below, we'll cover all the essential aspects of Web forms including marking up their HTML structure, styling form controls, validating form data, and submitting data to the server.
 
 <h3>Looking to become a front-end web developer?</h3>
@@ -91,7 +92,7 @@ We have put together a course that includes all the essential information you ne
 <h4>Get started</h4>
 
 <h4>Prerequisites</h4>
-Before starting this module, you should at least work through our <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a>. At this point you should find the Introductory guides easy to understand, and also be able to make use of our Basic native form controls guide.
+Before starting this module, you should at least work through our <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a>. At this point you should find the <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms#introductory_guides">Introductory guides</a> easy to understand, and also be able to make use of our <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls">Basic native form controls</a> guide.
 
 Mastering forms however requires more than just HTML knowledge — you also need to learn some specific techniques to style form controls, and some scripting knowledge is required to handle things like validation and creating custom form controls. Therefore, before you look at the other sections listed below we'd recommend that you go away and learn some CSS and JavaScript first.
 
