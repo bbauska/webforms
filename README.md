@@ -26,25 +26,37 @@ We have put together a course that includes all the essential information you ne
 
 <h4>Prerequisites</h4>
 Before starting this module, you should at least work through our <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a>. At this point you should find the Introductory guides easy to understand, and also be able to make use of our Basic native form controls guide.
+
 Mastering forms however requires more than just HTML knowledge — you also need to learn some specific techniques to style form controls, and some scripting knowledge is required to handle things like validation and creating custom form controls. Therefore, before you look at the other sections listed below we'd recommend that you go away and learn some CSS and JavaScript first.
+
 The above text is a good indicator as to why we've put web forms into its own standalone module, rather than trying to mix bits of it into the HTML, CSS, and JavaScript topic areas — form elements are more complex than most other HTML elements, and they also require a close marriage of related CSS and JavaScript techniques to get the most out of them.
-Note: If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out (most of) the code examples in an online coding program such as JSBin or Glitch.
-Introductory guides
-Your first form
+
+<b>Note:</b> If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out (most of) the code examples in an online coding program such as <b>JSBin</b> or <b>Glitch</b>.
+
+<h3>Introductory guides</h3>
+
+<h3>Your first form</h3>
 The first article in our series provides your very first experience of creating a web form, including designing a simple form, implementing it using the right HTML elements, adding some very simple styling via CSS, and how data is sent to a server.
-How to structure a web form
+
+<h3>How to structure a web form</h3>
 With the basics out of the way, we now look in more detail at the elements used to provide structure and meaning to the different parts of a form.
 The different form controls
-Basic native form controls
+
+<h3>Basic native form controls</h3>
 We start off this section by looking at the functionality of the original HTML <input> types in detail, looking at what options are available to collect different types of data.
-The HTML5 input types
+
+<h3>The HTML5 input types</h3>
 Here we continue our deep dive into the <input> element, looking at the additional input types provided when HTML5 was released, and the various UI controls and data collection enhancements they provide. Additionally, we look at the <output> element.
-Other form controls
+
+<h3>Other form controls</h3>
 Next we take a look at all the non-<input> form controls and associated tools, such as <select>, <textarea>, <meter>, and <progress>.
-Form styling guides
-Styling web forms
+
+<h3>Form styling guides</h3>
+
+<h3>Styling web forms</h3>
 This article provides an introduction to styling forms with CSS, including all the basics you might need to know for basic styling tasks.
-Advanced form styling
+
+<h3>Advanced form styling</h3>
 Here we look at some more advanced form styling techniques that need to be used when trying to deal with some of the more difficult-to-style form elements.
 UI pseudo-classes
 An introduction to the UI pseudo-classes enabling HTML form controls to be targeted based on their current state.
