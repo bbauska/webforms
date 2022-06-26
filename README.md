@@ -1,3 +1,15 @@
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------- readme.md in webforms.bauska.org --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<h2 align="center" width="100%">Front-end Web Developer - webforms - mdn web docs</h2>
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------- webforms logo (01) ----------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/image001.png"
+   alt="Bitcoin cs198.1x logo"
+   width="65%" />
+</p>
 <div align="center">
 <h1>Front-end web developer</h1>
 </div>
@@ -6,11 +18,14 @@
 
 Web forms — Working with user data
 This module provides a series of articles that will help you master the essentials of web forms. Web forms are a very powerful tool for interacting with users — most commonly they are used for collecting data from users, or allowing them to control a user interface. However, for historical and technical reasons it's not always obvious how to use them to their full potential. In the articles listed below, we'll cover all the essential aspects of Web forms including marking up their HTML structure, styling form controls, validating form data, and submitting data to the server.
-Looking to become a front-end web developer?
+
+<h3>Looking to become a front-end web developer?</h3>
 We have put together a course that includes all the essential information you need to work towards your goal.
-Get started
-Prerequisites
-Before starting this module, you should at least work through our Introduction to HTML. At this point you should find the Introductory guides easy to understand, and also be able to make use of our Basic native form controls guide.
+
+<h4>Get started</h4>
+
+<h4>Prerequisites</h4>
+Before starting this module, you should at least work through our <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML</a>. At this point you should find the Introductory guides easy to understand, and also be able to make use of our Basic native form controls guide.
 Mastering forms however requires more than just HTML knowledge — you also need to learn some specific techniques to style form controls, and some scripting knowledge is required to handle things like validation and creating custom form controls. Therefore, before you look at the other sections listed below we'd recommend that you go away and learn some CSS and JavaScript first.
 The above text is a good indicator as to why we've put web forms into its own standalone module, rather than trying to mix bits of it into the HTML, CSS, and JavaScript topic areas — form elements are more complex than most other HTML elements, and they also require a close marriage of related CSS and JavaScript techniques to get the most out of them.
 Note: If you are working on a computer/tablet/other device where you don't have the ability to create your own files, you could try out (most of) the code examples in an online coding program such as JSBin or Glitch.
