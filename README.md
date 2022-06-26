@@ -14,7 +14,74 @@
 <h1>Front-end web developer</h1>
 </div>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer"></a>
+<!------------------------------------------------------------------------------------------------>
+Developer guides
+There are a number of guides within MDN docs. These articles aim to add additional usage examples, or teach you how to use an API or feature. This page links to some of the most popular material.
 
+HTML
+Structuring the web with HTML
+The HTML learning area offers tutorials to help you learn HTML from the ground up.
+
+HTML basics
+This article will give you a basic understanding of HTML. After following this guide, you can further explore the material in the HTML Learning Area.
+
+CSS
+Learn to style HTML using CSS
+Our complete CSS tutorial, taking you from first steps through styling text, creating layouts, and more.
+
+CSS Layout Guides
+There are a large number of guides to CSS Layout across MDN, this page collects them all together.
+
+Using CSS animations
+CSS animations make it possible to animate transitions from one CSS style configuration to another. This guide will help you get started with the animation properties.
+
+JavaScript
+JavaScript learning area
+Whether you are a complete beginner, or hoping to refresh your skills, this is the place to start.
+
+AJAX
+AJAX is a term that defines a group of technologies allowing web applications to make quick, incremental updates to the user interface without reloading the entire browser page. This makes the application faster and more responsive to user actions.
+
+Media
+Graphics on the web
+Modern web sites and applications often need to present graphics of varying sophistication.
+
+Audio and video delivery
+We can deliver audio and video on the web in several ways, ranging from 'static' media files to adaptive live streams. This article is intended as a starting point for exploring the various delivery mechanisms of web-based media and compatibility with popular browsers.
+
+Audio and video manipulation
+The beauty of the web is that you can combine technologies to create new forms. Having native audio and video in the browser means we can use these data streams with technologies such as <canvas>, WebGL or Web Audio API to modify audio and video directly, for example adding reverb/compression effects to audio, or grayscale/sepia filters to video. This article provides a reference to explain what you need to do.
+
+APIs
+Using FormData objects
+The FormData object lets you compile a set of key/value pairs to send using XMLHttpRequest. It's primarily intended for sending form data, but can be used independently from forms to transmit keyed data. The transmission is in the same format that the form's submit() method would use to send the data if the form's encoding type were set to "multipart/form-data".
+
+Progressive web apps
+Progressive web apps (PWAs) use modern web APIs along with traditional progressive enhancement strategy to create cross-platform web applications. These apps work everywhere and provide several features that give them the same user experience advantages as native apps. This set of guides tells you all you need to know about PWAs.
+
+Parsing and serializing XML
+The web platform provides different methods of parsing and serializing XML, each with its pros and cons.
+
+Performance
+Optimization and performance
+When building modern web apps and sites, it's important to make your content work quickly and efficiently. This lets it perform effectively for both powerful desktop systems and weaker handheld devices.
+
+Mobile web development
+Mobile web development
+This article provides an overview of some of the main techniques needed to design web sites that work well on mobile devices.
+
+Fonts
+Variable fonts guide
+Find out how to use variable fonts in your designs.
+
+The Web Open Font Format (WOFF)
+WOFF (Web Open Font Format) is a font file format that is free for anyone to use on the web.
+
+User interface development
+User input and controls
+Modern web user input goes beyond simple mouse and keyboard: think of touchscreens for example. This article provides recommendations for managing user input and implementing controls in open web apps, along with FAQs, real-world examples, and links to further information for anyone needing more detailed information on the underlying technologies.
+
+<!------------------------------------------------------------------------------------------------>
 Web forms — Working with user data
 This module provides a series of articles that will help you master the essentials of web forms. Web forms are a very powerful tool for interacting with users — most commonly they are used for collecting data from users, or allowing them to control a user interface. However, for historical and technical reasons it's not always obvious how to use them to their full potential. In the articles listed below, we'll cover all the essential aspects of Web forms including marking up their HTML structure, styling form controls, validating form data, and submitting data to the server.
 
